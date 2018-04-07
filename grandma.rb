@@ -1,7 +1,7 @@
 def speak_to_grandma(input)
   if input == "I LOVE YOU GRANDMA!"
     return "I LOVE YOU TOO PUMPKIN!"
-  elseif input == "Hi Nana, how are you?"
+  elseif (input == "Hi Nana, how are you?")
     return "HUH?! SPEAK UP, SONNY!"
   elseif input == "Hi!"
     return "HUH?! SPEAK UP, SONNY!"
