@@ -3,4 +3,5 @@ def speak_to_grandma(input)
     return "NO, NOT SINCE 1938!"
   elseif input.downcase
     return "HUH?! SPEAK UP, SONNY!"
+  end
 end
